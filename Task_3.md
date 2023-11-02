@@ -1,0 +1,1 @@
+To do the 3rd task,I copied the file into the GitHub_task folder on the local system and then used the linux command git add . to add that file to bring it to the staging area. Then git commit -m "second commit" was used after this. git branch -M main, git pull origin main was used followed by git push origin main. 
